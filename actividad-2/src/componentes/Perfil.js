@@ -25,6 +25,8 @@ function Perfil(props) {
                 {props.resena}
 
             </p>
+        
+
         </div>
     )
 
