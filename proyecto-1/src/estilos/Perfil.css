@@ -1,0 +1,42 @@
+.contenedor-perfil {
+
+    width: 600px;
+    height: 400px;
+    display: flex;
+    background-color: azure;
+    place-items: center;
+    flex-direction: column;
+    margin: auto;
+
+
+}
+
+.imagen-perfil {
+
+    width: auto;
+    height: auto;
+    border-radius: 100%;
+
+}
+
+.contenedor-texto-perfil {
+
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    line-height: 1rem;
+
+}
+
+.cargo-perfil {
+
+    font-size: 1rem;
+
+}
+
+.resena-perfil {
+
+    font-size: 1rem;
+    text-align: leftS;
+
+}
